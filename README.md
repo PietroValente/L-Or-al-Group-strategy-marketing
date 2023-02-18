@@ -1,1 +1,1 @@
-# L-Or-al-Group-strategy-marketing
+# L'Oréal Group
