@@ -9,4 +9,5 @@ prova
 
 ## Team
 - Pietro Valente
-- Andrea Seghetto
+- Francesco Mazzola
+- Manuela Mittica
